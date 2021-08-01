@@ -3,7 +3,7 @@
 #### My name is Damian and I want to become Junior iOS Developer in the future.
 
 ##### Plans for the future:
-- July: Create copy of the 'Days' appstore app.
+- July: Create copy of the 'Days' appstore app. (Counto)
 - August/September: Learn MVVM Design Pattern. Design and create my own AppStore application.
 - October: Learn SwiftUI basics
 <!--
