@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### My name is Damian and I want to become Junior iOS Developer.
+
+##### Plans for the future:
+- July: Create copy of the 'Days' appstore app.
+- August/September: Learn MVVM Design Pattern. Design and create my own AppStore application.
+- October: Learn SwiftUI basics
 <!--
 **durzynski/durzynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
