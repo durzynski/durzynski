@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My name is Damian and I want to become Junior iOS Developer in the future.
+#### My name is Damian and I want to become Junior iOS Developer.
 
 ##### Plans for the future:
 - July: Create copy of the 'Days' appstore app. (Counto)
