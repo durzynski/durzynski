@@ -1,5 +1,11 @@
-### 
+### Hi 👋
 
+I am learning iOS Development.
+
+- I know Swift and UIKit
+- I can create views programatically
+- I undestand MVVM Pattern
+- I know basics of git
 
 <!--
 **durzynski/durzynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
