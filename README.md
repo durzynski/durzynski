@@ -7,6 +7,9 @@ I am learning iOS Development.
 - I undestand MVVM Pattern
 - I know basics of git
 
+To learn:
+ - SwiftUI
+ - Combine
 <!--
 **durzynski/durzynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
